@@ -1,6 +1,6 @@
 # SO Multi-platform Development
 
-<<Organizare>>
+<Organizare>
 Solutia aleasa si implementata in programul meu consta in citirea secventiala 
 a liniilor de input, verificarea daca acestea sunt directive sau text si 
 afisarea sau stocarea acestora.
@@ -9,7 +9,7 @@ dublu inlantuita.
 Pentru a se iesi din program atunci cand o functie de alocare de memorie 
 esueaza am folosit macroul DIE.
 
-<<Implementare>>
+<Implementare>
 Programul nu functioneaza pentru multi-lines defines, in rest este functional. 
 
 <<Compilare>>
